@@ -1,0 +1,4 @@
+update_quotes_job:
+  cron: "* 12 * * * *"
+  class: 'UpdateQuotesJob'
+  queue: default
