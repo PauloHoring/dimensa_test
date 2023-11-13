@@ -1,13 +1,9 @@
 # Teste de conhecimento técnico - Dimensa
 
-O objetivo do projeto é realizar um teste de avaliação de conhecimento. Na ocasião, foi requisitada a elaboração de um Web crawler para extrair informações do site http://quotes.toscrape.com/.
+O objetivo do projeto é realizar um teste de avaliação de conhecimento. Na ocasião, foi requisitada a elaboração de um Web crawler para extrair informações do site http://quotes.toscrape.com/ utilizando as seguintes tecnologias:
 
-# Tecnologias
-- Ruby 2.7.1
-- Rails 5.2.8
+- Ruby on Rails
 - Sidekiq
-- Sidekiq-cron
-- Redis
 - MongoDB
 
 ### Instalação e configuração ###
